@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256472397443",
+    "firebase_url": "https://loadcontrol-781e2.firebaseio.com",
+    "project_id": "loadcontrol-781e2",
+    "storage_bucket": "loadcontrol-781e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256472397443:android:57d75b7ad8566b36528db6",
+        "android_client_info": {
+          "package_name": "com.shariful.onlingame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256472397443-h64gup3tj6vg7sjdricp0oqc59775t2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCabmtMvNOKv0HPLLTP0Zclou0QQ4jgGjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256472397443-h64gup3tj6vg7sjdricp0oqc59775t2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
